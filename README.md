@@ -29,8 +29,8 @@ Sigue estos pasos para ejecutar el proyecto:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL-del-repositorio>
-   cd <nombre-del-repositorio>
+   git clone https://github.com/GabinoJoaquinC/challenge-amigo-secreto.git
+   cd challenge-amigo-secreto
    ```
    
 2. **Abrir el archivo en tu navegador:**
